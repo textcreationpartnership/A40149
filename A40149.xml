@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning the pure and undefiled religion that was set up above sixteen hundred years ago, which all that do own God and Christ are to walk in</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40149</idno><idno type="EEBO-CITATION">11860869</idno>
+  <idno type="VID">50012</idno>
+  <idno type="EEBO-PROQUEST">2240882984</idno>
+  
+            <idno type="STC">Wing F1775A</idno>
+            <idno type="STC">ESTC R17153</idno>
+            <idno type="OCLC">11860869</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50012)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 29:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning the pure and undefiled religion that was set up above sixteen hundred years ago, which all that do own God and Christ are to walk in</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bringhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Fox. Cf. Wing.</note>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50012:1"/>
+            <head>CONCERNING THE Pure and Undefiled RELIGION That was set up above Sixteen Hundred Years ago. Which all that do own God and Christ are to Walk in.</head>
+            <opener>
+               <salute>Dear Friends:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU, who profess the Light, Faith, Grace and Spirit of <hi>Christ,</hi> and the Pure Undefiled Religion before God the Father, are to keep your selves Unspotted from the World, and to bridle your Tongues from evill words, which Corrupt good Mariners, the Light of Jesus Christ letteth you see the Spots of the World, and the Grace of God will teach you to Deny them, and the Spirit, if you be <hi>Led by it,</hi> teacheth you to mortifie and subdue them.</p>
+            <p>And now Friends, Here is the <hi>pure</hi> and <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Religion,</hi> which the Apostles in the primitive Times did own, and which now we do own; this pure Religion and undefiled before God the Father, and to keep unspotted from the World, <hi>First,</hi> This <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> is <hi>Pure; <hi>Secondly,</hi>
+               </hi> It is <hi>Vndefiled before God the Father;</hi> and that which is Pure and Undefiled before God the Father, if you Live in it and obey it, it will keep you Unspotted from the World and so from the Spots of the World; and that which keeps you from the Spots of the World will keep you from the Body of Death, and Sins of the World; which you are made free from by the Circumcision of Christ, by his Spirit, and by the Law of the Spirit of Life in Christ Jesus, are made free from the Law of Sin and Death. And now Friends, you that do Profess this Pure and Undefiled Religion before God the Father, to keep you Unspotted from the World, or from the Spots of the World, take heed you that Profess this pute and undefiled Religion, that ye keep your selves from the World, or that you do not get the Worlds Spots upon you; and take heed of Greedyness, and Earthly-mindedness, and Covetousness, which the Apostle Called Idolatry; for it is a great Spot and Blot of the World that lyeth in Wickedness; and take heed of Unrighteousness in your Trades, Com<g ref="char:EOLhyphen"/>merces or Dealings; for Unrighteousness is a Spot: and take heed of Over-reaching or using any Deceitfullness, or Defraud in your trade, or Commerce; for Over-reaching and using Deceit or any unjust thing will Blot you and Spot you, and is Contrary to the pure and unde<g ref="char:EOLhyphen"/>filed Religion: And take heed of Unrighteousness, Ungodlyness, Unholyness, Prophan<g ref="char:EOLhyphen"/>ness, Loosness, Filthyness, Noughtyness, and evill Words, which Corrupt Good Manners, these things will Blot you and Spot you, and are Contrary to the pure undefiled Religion before God the Father; And also take heed of Drunkenness, Theft, Murder Whoredome, Fornication, Adultry, and all manner of Uncleanness; For they which act such things are voyd of the pure undefiled Religion before God the Father, and they are blotted and spotted with the Actions of the world that lyeth in Wickedness, and their Religion is Vain; And take heed of Lying, Swearing, and Cursing, which are Spots of the World, and forbid by Christ and the Apostle.</p>
+            <pb facs="tcp:50012:2"/>
+            <p>And all such that follow the Lust of the Eye, the Pride of Life, and the Lust of the Flesh, which is not of the Father, but of the God of the World, that abode not in the Truth, such are spotted with the spotts of the World, and are Proud, Vain, Lofty, Scornfull, high and Spotted with the Worlds Spots, and are voyd of the pure undefiled Religion before God the Father; And take heed of Malice, Hatred, Envy, Wrath, Rage, and Fury, these are spots of the world, who bear such fruits, Contrary to the Spirit of Meekness, Gentleness, Kindness, Tenderness, Sobriety, Love and Mercifullness, which are the fruits of the pure Spirit of God, which leadeth to the pure undefiled Religion before God the Father, which is to visit the Fatherless and Widdows in their affliction, and to keep unspotted from the World, this pure undefiled Religion keepeth in the purity of Life and Conversation, and this is aboue and keeps from all the vain Religions in the World, which pure and undefiled Reli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is the Duty of all true Christians to walk in, by which they may be kept from the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the World, and this is the Religion that was Set up aboue 1600. years agoe in the Church of Christ, and happy had all <hi>Christendom</hi> been if they had kept to this Pure Undefiled Religion to this Day, and then they would not have made so many Religions as they have d<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e; but to this pure undefiled Religion they must come again, if ever they come to the true Religion; for none can make a better than the pure undefiled Religion, which was set up in the Church in the Apostles days above Sixteen Hundred Years ago, unto which all <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat pro<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ss <hi>Christianity</hi> should be conformable, even this pure undefiled Religion, which will <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the Spots of the World, and then their Religion will not be of the World; and this is the one pure undefiled Religion that all <hi>Christians</hi> should be of, which is from one God the Creator of all: So there is one God the Creator of all, and one Lord Jesus Christ, by whom all things were made and created, who is the one Mediator betwixt God and man, even the Man Christ Jesus, there is one Body and one Spirit, even as you are called to one hope of your Calling, and one God and Father of all who is above you all, and in you all, and through you all, and there is one Faith which Christ Jesus is the Author and Finisher of, and there is one Baptisme, and by one Spirit we are all Baptised into one Body, whether we be <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at Gentiles, Bond or free, must all Drink into this one Spirit of Christ, and so to keep the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Spirit, which is the Bond of Peace; for the Apostle saith, <hi>If any Man have not the Spirit of Christ, he is none of his,</hi> Rom. 8.9. for Christ saith in his Prayer to his Father <hi>That th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y may be all one</hi> (meaning the true <hi>Christians) as thou Father art in me and I in thee, that they also may be one in us, that they may be one even as we are one; I in them, and thou in me, that they may be made Perfect in one</hi> (to wit) the Believers and Followers of Christ, <hi>John.</hi> 17.21, 22, 23. Here you may see, God and Christ are one in them, so he Prayeth that his People may be one, in whom they have Rest, Life, Peace, and Salvation with God, through Jesus Christ, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>The 4th of the 2d Moneth. 168<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <postscript>
+               <q>Let your Conversation or Practice be without <hi>Covetousness,</hi> &amp;c. <bibl>
+                     <hi>Hebr. 13.5.</hi>
+                  </bibl>
+               </q>
+               <q>Only let your Conversation be as becometh the Gospel of Christ, <bibl>
+                     <hi>Philip. 1.17.</hi>
+                  </bibl>
+               </q>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> John Bringhurst <hi>in</hi> Leaden-hall, 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
